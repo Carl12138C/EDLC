@@ -1,5 +1,5 @@
 # EDLC
-A Unity Game developed during G:AME Halloween Hackathon
+A Unity Game developed during G:AME Halloween Hackathon October 2022
 
 A witch has came across a castle that was once ruled by the demon lord Asmodeus.
 She needs to traverse the castle and defeat wandering monsters to protect the villagers.
